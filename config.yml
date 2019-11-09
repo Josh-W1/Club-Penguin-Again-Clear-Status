@@ -34,7 +34,7 @@ params:
     - description: Servers responsible for running the game.
       link: 'https://clubpenguinagain.com/play/'
       name: Game Servers
-    - description: Servers responsible for login's.
+    - description: Servers responsible for handling login requests for the game.
       link: 'https://clubpenguinagain.com/play'
       name: Login Servers
     - description: Servers responsible for Unlock items.
