@@ -27,7 +27,7 @@ params:
       link: 'https://clubpenguinagain.com/'
       name: Website
     - description: >-
-        Cloudflare is one of our DDoS protection and DNS provider, they proxy
+        Cloudflare is one of our DDoS protection and DNS providers, they proxy
         all of our traffic through their network.
       link: ''
       name: Cloudflare
