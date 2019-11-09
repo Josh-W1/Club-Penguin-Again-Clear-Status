@@ -18,7 +18,7 @@ params:
     - Site
     - Game
     - Support
-  logo: /html/logo.png
+  logo: /www/html/logo.png
   meta_description: Information regarding the status of Club Penguin Again.
   shortDateFormat: 'Jan 2 — 15:04'
   systems:
