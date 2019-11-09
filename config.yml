@@ -10,9 +10,9 @@ params:
   description_header: >-
     Information regarding the status of <a class='text-grey-darkest' title='Club
     Penguin Again' href='https://clubpenguinagain.com/'>Club Penguin
-    Again</a>.<br />Follow us <a class='text-grey-darkest' title='Visit our
-    Twitter href='https://www.twitter.com/CPAgain'>on Twitter</a> or subscribe
-    to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
+    Again</a>.<br />Follow us  <a class='text-grey-darkest' title='Club Penguin
+    Again' href='https://twitter.com/CPAgain/'>on Twitter</a> or subscribe to <a
+    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events and updates.
   eventsPerPage: 10
   groups:
